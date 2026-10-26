@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou Erik Junio Reis Martins 👋
 
-<!--
-**erikmartins007/erikmartins007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de Sistemas de Informação, com interesse em Inteligência Artificial, tecnologia e inovação. Atualmente, atuo em um escritório de contabilidade, buscando conectar conhecimentos de tecnologia e negócios à prática profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em explorar como a Inteligência Artificial pode contribuir para automatizar processos, aumentar a produtividade e apoiar decisões nas áreas contábil e financeira.
+
+## Formação e interesses
+
+- 🎓 Graduando em Sistemas de Informação
+- 🤖 Inteligência Artificial e automação
+- 📊 Tecnologia aplicada à Contabilidade e aos Negócios
+- 💡 Inovação e desenvolvimento de soluções tecnológicas
+
+## Tecnologias em estudo
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+## Projetos acadêmicos
+
+Em breve, esta seção reunirá projetos desenvolvidos durante minha graduação.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/erik-junio-439328330/)
+- [GitHub](https://github.com/erikmartins007)
+
+**Tecnologia + Contabilidade + Inteligência Artificial = novas possibilidades para o futuro.**
