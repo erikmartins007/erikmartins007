@@ -20,7 +20,11 @@ Tenho interesse em explorar como a Inteligência Artificial pode contribuir para
 
 ## Projetos acadêmicos
 
-Em breve, esta seção reunirá projetos desenvolvidos durante minha graduação.
+### Viva o Idoso — Site de Conscientização
+
+Projeto acadêmico desenvolvido com HTML, CSS, Bootstrap e JavaScript, voltado à conscientização sobre a valorização, os direitos, os cuidados e o respeito às pessoas idosas.
+
+**Repositório:** [Viva o Idoso](https://github.com/erikmartins007/viva-o-idoso)
 
 ## Contato
 
