@@ -30,6 +30,7 @@ Tenho interesse em explorar como a Inteligência Artificial pode contribuir para
 |---|---|
 | [Viva o Idoso](https://github.com/erikmartins007/viva-o-idoso) | Site acadêmico voltado à conscientização sobre a valorização, os direitos, os cuidados e o respeito às pessoas idosas. Desenvolvido com HTML, CSS, Bootstrap e JavaScript. |
 | [Sistema Acadêmico — SQL](https://github.com/erikmartins007/sistema-academico-sql) | Projeto acadêmico de Banco de Dados desenvolvido em MySQL, com criação de tabelas, chaves primárias e estrangeiras, inserção de dados e consultas com INNER JOIN. |
+| [Calculadora em C](https://github.com/erikmartins007/calculadora-em-c) | Calculadora acadêmica desenvolvida em Linguagem C, com operações de adição, subtração, multiplicação e divisão, utilizando switch e tratamento de divisão por zero. |
 
 **Site publicado:** [Acessar Viva o Idoso](https://erikmartins007.github.io/viva-o-idoso/)
 
